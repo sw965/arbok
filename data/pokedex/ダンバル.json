@@ -1,0 +1,34 @@
+{
+    "BaseSpDef": 60,
+    "Learnset": [
+        "たいあたり",
+        "てっぺき",
+        "しねんのずつき",
+        "アイアンヘッド",
+        "てっていこうせん"
+    ],
+    "BaseSpAtk": 35,
+    "NormalAbilities": [
+        "クリアボディ"
+    ],
+    "Height": 0.6,
+    "Weight": 95.2,
+    "BaseDef": 80,
+    "HiddenAbility": "ライトメタル",
+    "BaseAtk": 55,
+    "Category": "通常ポケモン",
+    "BaseSpeed": 30,
+    "EggGroups": [
+        "鉱物"
+    ],
+    "AllAbilities": [
+        "クリアボディ",
+        "ライトメタル"
+    ],
+    "Types": [
+        "はがね",
+        "エスパー"
+    ],
+    "BaseHP": 40,
+    "Gender": "不明"
+}

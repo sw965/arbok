@@ -1,0 +1,36 @@
+{
+    "BaseSpDef": 58,
+    "Learnset": [
+        "カウンター",
+        "ミラーコート",
+        "しんぴのまもり",
+        "みちづれ",
+        "はねる",
+        "あまえる",
+        "アンコール",
+        "ドわすれ"
+    ],
+    "BaseSpAtk": 33,
+    "NormalAbilities": [
+        "かげふみ"
+    ],
+    "Height": 1.3,
+    "Weight": 28.5,
+    "BaseDef": 58,
+    "HiddenAbility": "テレパシー",
+    "BaseAtk": 33,
+    "Category": "通常ポケモン",
+    "BaseSpeed": 33,
+    "EggGroups": [
+        "不定形"
+    ],
+    "AllAbilities": [
+        "かげふみ",
+        "テレパシー"
+    ],
+    "Types": [
+        "エスパー"
+    ],
+    "BaseHP": 190,
+    "Gender": "♂♀両方"
+}

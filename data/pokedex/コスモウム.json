@@ -1,0 +1,29 @@
+{
+    "BaseSpDef": 131,
+    "Learnset": [
+        "コスモパワー",
+        "テレポート"
+    ],
+    "BaseSpAtk": 29,
+    "NormalAbilities": [
+        "がんじょう"
+    ],
+    "Height": 0.1,
+    "Weight": 999.9,
+    "BaseDef": 131,
+    "HiddenAbility": "なし",
+    "BaseAtk": 29,
+    "Category": "伝説のポケモン",
+    "BaseSpeed": 37,
+    "EggGroups": [
+        "タマゴ未発見"
+    ],
+    "AllAbilities": [
+        "がんじょう"
+    ],
+    "Types": [
+        "エスパー"
+    ],
+    "BaseHP": 43,
+    "Gender": "不明"
+}
