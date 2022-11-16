@@ -1,0 +1,20 @@
+{
+    "BasePP": 20,
+    "Contact": "×",
+    "CriticalRank": 0,
+    "Substitute": "通常",
+    "Target": "自分",
+    "MaxAttackNum": 1,
+    "MirrorMove": "×",
+    "Protect": "－",
+    "MagicCoat": "×",
+    "GigantamaxPower": -1,
+    "Type": "みず",
+    "PriorityRank": 0,
+    "Snatch": "できる",
+    "Category": "変化",
+    "Accuracy": -1,
+    "GigantamaxMove": "ダイウォール",
+    "Power": -1,
+    "MinAttackNum": 1
+}

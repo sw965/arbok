@@ -1,0 +1,20 @@
+{
+    "BasePP": 20,
+    "Contact": "×",
+    "CriticalRank": 0,
+    "Substitute": "通常",
+    "Target": "1体選択",
+    "MaxAttackNum": 5,
+    "MirrorMove": "できる",
+    "Protect": "通常",
+    "MagicCoat": "×",
+    "GigantamaxPower": 130,
+    "Type": "ドラゴン",
+    "PriorityRank": 0,
+    "Snatch": "×",
+    "Category": "物理",
+    "Accuracy": 90,
+    "GigantamaxMove": "ダイドラグーン",
+    "Power": 25,
+    "MinAttackNum": 2
+}

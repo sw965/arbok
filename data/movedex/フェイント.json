@@ -1,0 +1,20 @@
+{
+    "BasePP": 10,
+    "Contact": "×",
+    "CriticalRank": 0,
+    "Substitute": "通常",
+    "Target": "1体選択",
+    "MaxAttackNum": 1,
+    "MirrorMove": "できる",
+    "Protect": "貫通",
+    "MagicCoat": "×",
+    "GigantamaxPower": 90,
+    "Type": "ノーマル",
+    "PriorityRank": 2,
+    "Snatch": "×",
+    "Category": "物理",
+    "Accuracy": 100,
+    "GigantamaxMove": "ダイアタック",
+    "Power": 30,
+    "MinAttackNum": 1
+}

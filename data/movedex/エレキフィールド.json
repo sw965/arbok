@@ -1,0 +1,20 @@
+{
+    "BasePP": 10,
+    "Contact": "×",
+    "CriticalRank": 0,
+    "Substitute": "－",
+    "Target": "全体の場",
+    "MaxAttackNum": 1,
+    "MirrorMove": "×",
+    "Protect": "－",
+    "MagicCoat": "×",
+    "GigantamaxPower": -1,
+    "Type": "でんき",
+    "PriorityRank": 0,
+    "Snatch": "×",
+    "Category": "変化",
+    "Accuracy": -1,
+    "GigantamaxMove": "ダイウォール",
+    "Power": -1,
+    "MinAttackNum": 1
+}
